@@ -26,7 +26,7 @@
     "electron-builder": "^24.4.0",
     "typescript": "^5.0.3",
     "vite": "^4.1.4",
-    "vite-plugin-electron": "^0.12.0"
+    "vite-plugin-electron": "^0.14.1"
   },
   "dependencies": {
     "@types/react": "^18.2.20",
